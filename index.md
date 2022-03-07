@@ -2,6 +2,7 @@
 Here you will find information about the apps that we are publishing in the Apple and Google app stores.
 At the moment the following apps are in development or have been tested:
 - Target for Today Assistant
+
 and you can finfd out more information about these applications below.
 
 # Target for Today Assistant
