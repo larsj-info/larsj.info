@@ -1,9 +1,12 @@
 # Welcome to larsj.info
-Here you will find information about the apps that we are publishing in the Apple and Google app stores.
+Here you will find information about the apps that I am publishing in the Apple and/or Google app stores.
+
 At the moment the following apps are in development or have been tested:
 - Target for Today Assistant
 
 and you can finfd out more information about these applications below.
+
+You can also find the Privacy Policy for my apps at the end of this page.
 
 # Target for Today Assistant
 This app was created to make it much easier to play the Target for Today solo boardgame from Legion Wargames.
@@ -48,9 +51,9 @@ Disable this option if you don’t want to see the various bomber group game det
 This will allow you to swap to another campaign at the end of the current mission.
 If you choose "City" then make sure you set the mission date first on the next screen as that will then determine what bomber choices you have (if a new bomber is needed) and that date will also determine which campaign number is used for the various combat tables.
 - **Use your own crew names**
-If you don’t want to type in your crew names the app defaults to the random crew names as posted by worst2first on BGG Files for TFT. Turn this on if you want to enter your own crew names.
+If you don’t want to type in your crew names the app defaults to the random crew names as posted by worst2first on Boardgamegeek.com Files for TFT. Turn this on if you want to enter your own crew names.
 - **Use your own plane name**
-If you don’t want to make up your plane name the app defaults to the random plane names as posted by worst2first on BGG Files for TFT. Turn this on if you want to enter your own plane names.
+If you don’t want to make up your plane name the app defaults to the random plane names as posted by worst2first on Boardgamegeek.com Files for TFT. Turn this on if you want to enter your own plane names.
 - **Campaign over if pilot KIA/MIA/POW or sent home**
 Your current campaign will only last as long as the pilot. If you want to continue the campaign with other surviving crew members if the pilot is lost, then you should unset this option
 - **Pilot gets new crew after more than 6 weeks absence**
@@ -75,7 +78,7 @@ You can only see these details if the Show Bomber Group information option is on
 
 # Privacy Policy
 
-Les Klein built the Target for Today helper app as a Free app. This SERVICE is provided by Les Klein at no cost and is intended for use as is.
+I built the Target for Today helper app as a Free app. This SERVICE is provided by me at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -85,11 +88,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-Personally identifiable information is not collected by me in any way.
+Personally identifiable information is not intentionaly collected by me in any way.
 
 The app does use third-party services that may collect information used to identify you.
 
-Link to the privacy policy of third-party service providers used by the app
+Links to the privacy policy of third-party service providers used by the app:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Sentry](https://sentry.io/privacy/)
