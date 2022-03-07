@@ -10,6 +10,10 @@ The goal of the app is to remove the need to keep any manual records while playi
 
 As a new player I found it very hard to get used to the detailed sequence of play and would forget to do things or do them in the wrong order and the app guides you through the detailed sequence of play so that you can't forget anything or do things out of order. Using the app you should find that you don’t need any paper forms to play as it tracks everything you would mark on a form, and you can see that data any time on the left-hand scroll panel on the screen or by using some of the main menu items.
 
+To make things easier for you, and thanks to the nice people in the TFT forums at Boardgamegeek.com, the app can generate bomber names and crew names for you and keep track of bomber damage on missions (using Peckham points). It also handles hospitalisation and recovery for wounded crew members, promotion boards and gunnery stats (including Ace status).
+
+You are also able to choose between using the default damage tables that come with the game or an alternative set provided by one of the game desginers (Joe Osentoski).
+
 One thing to be aware of is that to allow Bomber Group games to be played it is necessary for you to choose your Army Air Force and Unit when starting a new campaign and your chosen Bomber Wing will determine the type of plane that you can fly.
 To support those players that are not interested in the rest of the group and who still want the freedom to fly the bomber of their choice for the campaign they want to play (rather than being constrained by their Bomber Wing) there are now made-up bomber wings for both 8th and 15th AAFs that allow both types of bomber choices for all the relevant campaigns and city missions (based on mission dates). These made-up wings are the last entry in the bomber wing list (for 1st Air Division in 8AAF).
 
@@ -30,25 +34,24 @@ There is a main menu in the top left corner of the screen from which you can cho
 
 ### Settings
 This will display all the options available on a new settings screen. There you can choose from the following options:
-- Preferred Random Number Strategy
+- **Preferred Random Number Strategy**
 Which one of 3 different random number strategies to use for the dice rolling.
-- Show more game details
+- **Show more game details**
 If you want to see the results of the table lookups and what the die roll modifications are then you can toggle the detail pages on (but this will mean a lot more button pressing ;-)
 This will also let you see a lot more information about damage to fighters from defensive fire.
-- Show Bomber Group information
+- **Show Bomber Group information**
 Disable this option if you don’t want to see the various bomber group game details as described in section 10.4 of the rules.
-- Always show campaign choice before next mission
+- **Always show campaign choice before next mission**
 This will allow you to swap to another campaign at the end of the current mission.
 If you choose "City" then make sure you set the mission date first on the next screen as that will then determine what bomber choices you have (if a new bomber is needed) and that date will also determine which campaign number is used for the various combat tables.
-- Use your own crew names
+- **Use your own crew names**
 If you don’t want to type in your crew names the app defaults to the random crew names as posted by worst2first on BGG Files for TFT. Turn this on if you want to enter your own crew names.
-- Use your own plane name
+- **Use your own plane name**
 If you don’t want to make up your plane name the app defaults to the random plane names as posted by worst2first on BGG Files for TFT. Turn this on if you want to enter your own plane names.
-- Campaign over if pilot KIA/MIA/POW or sent home
+- **Campaign over if pilot KIA/MIA/POW or sent home**
 Your current campaign will only last as long as the pilot. If you want to continue the campaign with other surviving crew members if the pilot is lost, then you should unset this option
-- Pilot gets new crew after more than 6 weeks absence
+- **Pilot gets new crew after more than 6 weeks absence**
 If the pilot needs 6+ weeks to recover from any injuries then he will get a new crew for the next mission date on his recovery date. If you want to continue with the same crew then unset this option.
-(cont’d on next page)
 
 ### Show more details
 This option will immediately show you the detailed information behind whatever has just been displayed. This is the same information that would be displayed before the current screen if you have the “Show more game details” option on except that now you can do it on demand rather than having it happen for every screen update.
