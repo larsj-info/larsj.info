@@ -5,14 +5,16 @@ At the moment the following apps are in development or have been tested:
 and you can finfd out more information about these applications below.
 
 # Target for Today Assistant
-This app was created to make it much easier to play the Target for Today solo boardgame from Legion Games.
+This app was created to make it much easier to play the Target for Today solo boardgame from Legion Wargames.
 The goal of the app is to remove the need to keep any manual records while playing and to do as much of the dice rolling and table lookups for you.
 
 As a new player I found it very hard to get used to the detailed sequence of play and would forget to do things or do them in the wrong order and the app guides you through the detailed sequence of play so that you can't forget anything or do things out of order. Using the app you should find that you don’t need any paper forms to play as it tracks everything you would mark on a form, and you can see that data any time on the left-hand scroll panel on the screen or by using some of the main menu items.
 
-To make things easier for you, and thanks to the nice people in the TFT forums at Boardgamegeek.com, the app can generate bomber names and crew names for you and keep track of bomber damage on missions (using Peckham points). It also handles hospitalisation and recovery for wounded crew members, promotion boards and gunnery stats (including Ace status).
+To make things easier for you, and thanks to the nice people in the TFT forums at Boardgamegeek.com, the app can generate bomber names and crew names for you and keep track of bomber damage on missions (using Peckham points). It also handles hospitalisation and recovery for wounded crew members, promotion boards and gunnery stats (including Ace status). You are also able to choose between using the default damage tables that come with the game or an alternative set provided by the techincal advisor for the game (Joe Osentoski).
 
-You are also able to choose between using the default damage tables that come with the game or an alternative set provided by one of the game desginers (Joe Osentoski).
+The app also allows you to play multiple campaigns at the same time so you can fly a mission on, say, campaign 2 and then when that mission is over you could then decide to fly a mission on, say, campaign 4. When you swap to a campaign that you have played missions for previously the app will carry on from where you left off.
+
+The app keeps a Composite Mission Log for you so that you can see what happened on each mission and you can export those details from the app to a file that you can import to any spreadsheet. **NB** if your pilot is killed on a mission and you want to keep the composite mission log for the game you will need to export it **after** the Gunnery Review board has taken place.
 
 One thing to be aware of is that to allow Bomber Group games to be played it is necessary for you to choose your Army Air Force and Unit when starting a new campaign and your chosen Bomber Wing will determine the type of plane that you can fly.
 To support those players that are not interested in the rest of the group and who still want the freedom to fly the bomber of their choice for the campaign they want to play (rather than being constrained by their Bomber Wing) there are now made-up bomber wings for both 8th and 15th AAFs that allow both types of bomber choices for all the relevant campaigns and city missions (based on mission dates). These made-up wings are the last entry in the bomber wing list (for 1st Air Division in 8AAF).
