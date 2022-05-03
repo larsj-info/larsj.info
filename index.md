@@ -58,6 +58,8 @@ If you don’t want to make up your plane name the app defaults to the random pl
 Your current campaign will only last as long as the pilot. If you want to continue the campaign with other surviving crew members if the pilot is lost, then you should unset this option
 - **Pilot gets new crew after more than 6 weeks absence**
 If the pilot needs 6+ weeks to recover from any injuries then he will get a new crew for the next mission date on his recovery date. If you want to continue with the same crew then unset this option.
+- **Allow missions to be cancelled**
+Since in my opinion, it goes against the spirit of the game to cancel a mission, the app does not allow this by default. However, since it is obviously possible to abandon a mission when playing without the app, you can now do that in the app as well. If you enable this option, then a cancel button will appear in the top right of those screens from which it is possible to cancel the mission (most screens). Please note that currently you need to be airborne before cancel will have any effect.
 
 ### Show more details
 This option will immediately show you the detailed information behind whatever has just been displayed. This is the same information that would be displayed before the current screen if you have the “Show more game details” option on except that now you can do it on demand rather than having it happen for every screen update.
