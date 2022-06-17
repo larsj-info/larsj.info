@@ -26,7 +26,7 @@ To support those players that are not interested in the rest of the group and wh
 ## Headline Limitations:
 - No YB40 bomber option.
 - B-24J crew assignment option defaults to Radio Operator as Left Waist Gunner, Left Waist Gunner as Nose Turret Gunner and Navigator at Radio Operator seat (later release will allow you to choose from the two options).
-- Only the following optional rules are implemented: Gunnery Review Board, rule 10.5.3 for B17G Radio Room gun and Bomber Group as per rule 10.4.
+- Only the following optional rules are implemented: JG-26 The Abbeville Kids rule 10.1, Gunnery Review Board, rule 10.5.3 for B17G Radio Room gun and Bomber Group as per rule 10.4.
 - Escort effect randomly removes the attackers rather than you choose which one(s) to remove
 - If available “Lady Luck Smiles” is automatically used by the app to try and avoid catastrophic events.
 - No penalty crew moving
