@@ -47,6 +47,8 @@ If you want to see the results of the table lookups and what the die roll modifi
 This will also let you see a lot more information about damage to fighters from defensive fire.
 - **Show Bomber Group information**
 Disable this option if you don’t want to see the various bomber group game details as described in section 10.4 of the rules.
+- **JG-26 "Abbeville Kids"**
+Enable this option if you the optional rules in section 10.1 to be used as per notes (i) and (j) to tables 5-3A and 5-3B.
 - **Always show campaign choice before next mission**
 This will allow you to swap to another campaign at the end of the current mission.
 If you choose "City" then make sure you set the mission date first on the next screen as that will then determine what bomber choices you have (if a new bomber is needed) and that date will also determine which campaign number is used for the various combat tables.
