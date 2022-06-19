@@ -2,11 +2,21 @@
 Here you will find information about the apps that I am publishing in the Apple and/or Google app stores.
 
 At the moment the following apps are in development or have been tested:
-- Target for Today Assistant
+- [Supermarket Calculator](https://github.com/larsj-info/larsj.info/edit/gh-pages/index.md#supermarket-calculator)
+- [Target for Today Assistant](https://github.com/larsj-info/larsj.info/edit/gh-pages/index.md#target-for-today-assistant)
 
 and you can find out more information about these applications below.
 
-You can also find the Privacy Policy for my apps at the end of this page.
+You can also find the **Privacy Policy** for my apps [here](https://github.com/larsj-info/larsj.info/edit/gh-pages/index.md#privacy-policy)
+
+# Supermarket Calculator
+This app aims to make it very easy to compare prices of similar products when weights/volumes/number-of-items are different and also when different "offers" apply to some and not others.
+
+It is designed to be simple to use requiring only one hand and a thumb (or single finger) to use and has different layouts for right and left handed users. It is also colour-blind friendly.
+
+You can use it in-store when out shopping to compare products or online to compare products from the same or different websites.
+
+It is built to be language independent and supports English and Welsh at the moment. It should be easily translatable to any European language and if you are interested to help with that then please contact us via the "Feedback" setting in the app.
 
 # Target for Today Assistant
 This app was created to make it much easier to play the Target for Today solo boardgame from Legion Wargames.
@@ -82,7 +92,7 @@ You can only see these details if the Show Bomber Group information option is on
 
 # Privacy Policy
 
-I built the Target for Today helper app as a Free app. This SERVICE is provided by me at no cost and is intended for use as is.
+I built the Supermarket Calculator app and the Target for Today helper app as Free apps. This SERVICE is provided by me at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
