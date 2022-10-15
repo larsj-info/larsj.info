@@ -63,7 +63,7 @@ Enable this option if you the optional rules in section 10.1 to be used as per n
 This will allow you to swap to another campaign at the end of the current mission.
 If you choose "City" then make sure you set the mission date first on the next screen as that will then determine what bomber choices you have (if a new bomber is needed) and that date will also determine which campaign number is used for the various combat tables.
 - **Use your own crew names**
-If you don’t want to type in your crew names the app defaults to the random crew names as posted by worst2first on Boardgamegeek.com Files for TFT. Turn this on if you want to enter your own crew names.
+If you don’t want to type in your crew names the app defaults to the random crew names as posted by worst2first on Boardgamegeek.com Files for TFT. Turn this on if you want to enter your own crew names names and if you do this you will also be able to choose rank and number of kills to start your tour of duty with.
 - **Use your own plane name**
 If you don’t want to make up your plane name the app defaults to the random plane names as posted by worst2first on Boardgamegeek.com Files for TFT. Turn this on if you want to enter your own plane names.
 - **Campaign over if pilot KIA/MIA/POW or sent home**
