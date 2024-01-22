@@ -33,15 +33,32 @@ The app keeps a Composite Mission Log for you so that you can see what happened 
 One thing to be aware of is that to allow Bomber Group games to be played it is necessary for you to choose your Army Air Force and Unit when starting a new campaign and your chosen Bomber Wing will determine the type of plane that you can fly.
 To support those players that are not interested in the rest of the group and who still want the freedom to fly the bomber of their choice for the campaign they want to play (rather than being constrained by their Bomber Wing) there are now made-up bomber wings for both 8th and 15th AAFs that allow both types of bomber choices for all the relevant campaigns and city missions (based on mission dates). These made-up wings are the last entry in the bomber wing list (for 1st Air Division in 8AAF).
 
+Bombing is supported for both individual bombing (e.g. Campaign 1 or when you are out of formation in the target zone) and for bombing on lead. Both the TfT and the Chris R. target zone procedures are available.
+As soon as your Pilot, Co-pilot, Bombardier and Navigator have flown 6 missions you will be automatically asked on the pre-mission screen if you would like to upgrade your crew to a “lead bomber crew” (i.e., get a second navigator) when you press “Submit”.
+If you say “Yes” then your crew will be upgraded and you will lose your LW Gunner in favour of a new D.R. Navigator who comes with 6 missions already.
+If you say “No” then nothing will change and you will be prompted again before the start of the next mission.
+In both cases you will need to press “Submit” again after the dialog closes.
+NB: It is highly recommended that you turn on Use Own Crew from settings if you want to fly as lead (or deputy lead) since that way you can add new key crew with 6 missions of anything happens to any of them (otherwise you will be unable to choose lead/deputy lead until the new member has flown 6 missions).
+If bombing on lead and group bombers 1 & 2 are both lost before reaching the target zone then everyone else in the group, including your own bomber, will bomb individually.
+Similarly, if PFF (radar) is available for your lead crew then you will be asked if you want to upgrade your bomber (and crew).
+NB: If you do this then for the remainder of your Pilot’s ToD you will only be able to choose between plane numbers 1 & 2 (lead and deputy lead) for each mission.
+Remember also that you will lose your Ball turret and ball turret gunner in favour of the radar and a radar operator.
+
 ## Headline Limitations:
-- No YB40 bomber option.
-- B-24J crew assignment option defaults to Radio Operator as Left Waist Gunner, Left Waist Gunner as Nose Turret Gunner and Navigator at Radio Operator seat (later release will allow you to choose from the two options).
-- Only the following optional rules are implemented: JG-26 The Abbeville Kids rule 10.1, Gunnery Review Board, rule 10.5.3 for B17G Radio Room gun and Bomber Group as per rule 10.4.
-- Escort effect randomly removes the attackers rather than you choose which one(s) to remove
-- If available “Lady Luck Smiles” is automatically used by the app to try and avoid catastrophic events.
-- No penalty crew moving
-- No Tables 5-7B or 5-17C
-- The app needs to be used in Landscape mode.
+-	Chris R’s tables are only available for 8AAF missions.
+-	B-24J crew assignment option defaults to Radio Operator as Left Waist Gunner, Left Waist Gunner as Nose Turret Gunner and Navigator at Radio Operator seat (later release will allow you to choose from the two options).
+-	Escort effect randomly removes the attackers rather than you choose which one(s) to remove.
+-	If available “Lady Luck Smiles” is automatically used by the app to try and avoid catastrophic events.
+-	No penalty crew moving.
+-	No Tables 5-7B or 5-17C.
+-	The app needs to be used in Landscape mode.
+#### Optional rules not yet implemented:
+- 10.2 Early Bomber Formations
+- 10.5 Additional US Bomber Aircraft
+- 10.6 Additional Crew Positions
+- 10.12 Alternate Landing Options
+- NB: 10.3 is implemented but for now bomber group plane number 2 is the Deputy Lead
+- NB: 10.11, Historical Tour of Duty, is effectively avaiable as you are able to select your mission date, target type and target city for each mission.
 
 Anything shown inside the blue-bordered rectangles is potentially scrollable so if the text you see goes close to the bottom of the rectangle, make sure that you scroll down to see everything (this can include guns that can fire at the enemy).
 
