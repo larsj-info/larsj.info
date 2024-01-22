@@ -55,6 +55,8 @@ Remember also that you will lose your Ball turret and ball turret gunner in favo
 -	No penalty crew moving.
 -	No Tables 5-7B or 5-17C.
 -	The app needs to be used in Landscape mode.
+
+
 #### Optional rules not yet implemented:
 - 10.2 Early Bomber Formations
 - 10.5 Additional US Bomber Aircraft
