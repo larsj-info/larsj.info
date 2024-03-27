@@ -48,7 +48,7 @@ Similarly, if PFF (radar) is available for your lead crew then you will be asked
 Remember also that you will lose your Ball turret and ball turret gunner in favour of the radar and a radar operator.
 
 ## Headline Limitations:
--	Chris R’s tables are only available for 8AAF missions.
+-	Ilmarainen's (Chris R’s) tables are only available for 8AAF missions.
 -	B-24J crew assignment option defaults to Radio Operator as Left Waist Gunner, Left Waist Gunner as Nose Turret Gunner and Navigator at Radio Operator seat (later release will allow you to choose from the two options).
 -	Escort effect randomly removes the attackers rather than you choose which one(s) to remove.
 -	If available “Lady Luck Smiles” is automatically used by the app to try and avoid catastrophic events.
@@ -58,8 +58,8 @@ Remember also that you will lose your Ball turret and ball turret gunner in favo
 
 
 #### Optional rules not yet implemented:
-- 10.2 Early Bomber Formations
-- 10.5 Additional US Bomber Aircraft
+- 10.2 Early Bomber Formations 
+- 10.5 Additional US Bomber Aircraft YB40
 - 10.6 Additional Crew Positions
 - 10.12 Alternate Landing Options
 - NB: 10.3 is implemented but for now bomber group plane number 2 is the Deputy Lead
@@ -81,6 +81,8 @@ This will also let you see a lot more information about damage to fighters from 
 Disable this option if you don’t want to see the various bomber group game details as described in section 10.4 of the rules.
 - **JG-26 "Abbeville Kids"**
 Enable this option if you the optional rules in section 10.1 to be used as per notes (i) and (j) to tables 5-3A and 5-3B.
+- **Enable radar**
+On by default but you can turn off if you don’t want to use optional rule 10.9.
 - **Always show campaign choice before next mission**
 This will allow you to swap to another campaign at the end of the current mission.
 If you choose "City" then make sure you set the mission date first on the next screen as that will then determine what bomber choices you have (if a new bomber is needed) and that date will also determine which campaign number is used for the various combat tables.
