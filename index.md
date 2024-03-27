@@ -3,7 +3,7 @@ Here you will find information about the apps that I am publishing in the Apple 
 
 At the moment the following apps are in development or have been tested:
 - [Supermarket Calculator](https://github.com/larsj-info/larsj.info/edit/gh-pages/index.md#supermarket-calculator)
-- [Target for Today Assistant](https://github.com/larsj-info/larsj.info/edit/gh-pages/index.md#target-for-today-assistant)
+- [Target for Today Assistant](www.larsj.info/edit/gh-pages/index.md#target-for-today-assistant)
 
 and you can find out more information about these applications below.
 
@@ -62,7 +62,6 @@ Remember also that you will lose your Ball turret and ball turret gunner in favo
 - 10.5 Additional US Bomber Aircraft YB40
 - 10.6 Additional Crew Positions
 - 10.12 Alternate Landing Options
-- NB: 10.3 is implemented but for now bomber group plane number 2 is the Deputy Lead
 - NB: 10.11, Historical Tour of Duty, is effectively avaiable as you are able to select your mission date, target type and target city for each mission.
 
 Anything shown inside the blue-bordered rectangles is potentially scrollable so if the text you see goes close to the bottom of the rectangle, make sure that you scroll down to see everything (this can include guns that can fire at the enemy).
