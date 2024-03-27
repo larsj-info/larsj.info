@@ -3,7 +3,7 @@ Here you will find information about the apps that I am publishing in the Apple 
 
 At the moment the following apps are in development or have been tested:
 - [Supermarket Calculator](https://github.com/larsj-info/larsj.info/edit/gh-pages/index.md#supermarket-calculator)
-- [Target for Today Assistant](www.larsj.info/edit/gh-pages/index.md#target-for-today-assistant)
+- [Target for Today Assistant](https://github.com/larsj.info/edit/gh-pages/index.md#target-for-today-assistant)
 
 and you can find out more information about these applications below.
 
