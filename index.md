@@ -7,7 +7,7 @@ At the moment the following apps are in development or have been tested:
 
 and you can find out more information about these applications below.
 
-You can also find the **Privacy Policy** for my apps [here](https://github.com/larsj-info/larsj.info/edit/gh-pages/index.md#privacy-policy)
+You can also find the **Privacy Policy** for my apps [here](privacy.md)
 
 # Supermarket Calculator
 This app aims to make it very easy to compare prices of similar products when weights/volumes/number-of-items are different and also when different "offers" apply to some and not others.
